@@ -1,5 +1,3 @@
-## silex-twig-hello-world
-
 #### Installation
 
 **Step 1** - Install node dependencies
